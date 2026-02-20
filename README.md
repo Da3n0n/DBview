@@ -3,9 +3,9 @@
 [![Version](https://img.shields.io/visual-studio-marketplace/v/Dannan.dbview.svg)](https://marketplace.visualstudio.com/items?itemName=Dannan.dbview)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/Dannan.dbview.svg)](https://marketplace.visualstudio.com/items?itemName=Dannan.dbview)
 
-**DBView** is the ultimate lightweight file explorer for VS Code that lets you preview **Databases**, **SQL Dumps**, and **Markdown** files instantly—just click and view! 🚀
+**DBView** is the ultimate lightweight file explorer for **VS Code**, **Cursor**, **Windsurf**, and any compatible editor. Use it to preview **Databases**, **SQL Dumps**, and **Markdown** files instantly—just click and view! 🚀
 
-No drivers. No connection strings. No hassle. It just works.
+No drivers. No connection strings. No hassle. It just works across all your favorite VS Code-based IDEs.
 
 ---
 
